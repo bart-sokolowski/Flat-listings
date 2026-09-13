@@ -1696,5 +1696,264 @@ const LISTINGS = [
       "pinType": "ACCURATE_POINT",
       "showMap": true
     }
+  },
+  {
+    "id": "93062538",
+    "name": "Violet Road",
+    "area": "Bow / Bromley-by-Bow",
+    "amenities": [
+      "Balcony*",
+      "New build",
+      "Pet friendly",
+      "Dedicated property manager"
+    ],
+    "summary": "New-build apartment with integrated appliances and a washer/dryer. Furnished in the listing; unfurnished options also advertised.",
+    "warning": "Photos show example availability. Balcony appears in the key features, but the general description says only some homes have outdoor space; confirm the exact flat. The advert notes a neighbouring supported accommodation and care facility.",
+    "address": "Violet Road, London E3",
+    "postcode": "E3 3QH",
+    "rent": 2550,
+    "extra": 0,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": "839 sq ft",
+    "furnishing": "Furnished",
+    "available": "24/09/2026",
+    "deposit": "£2,942",
+    "tax": "Band D",
+    "bills": "Bills and council tax inclusion not stated; confirm with agent.",
+    "term": "Long term; exact terms to confirm",
+    "updated": "Added on 11/09/2026",
+    "agent": "Knight Frank Lettings (ILM), ILM Lettings",
+    "url": "https://www.rightmove.co.uk/properties/93062538",
+    "images": [
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/8b8bd19cd/93062538/8b8bd19cd780795def2c99af49875443.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/8b8bd19cd/93062538/8b8bd19cd780795def2c99af49875443_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/83d7ee497/93062538/83d7ee49733c04f51a325575c5065252.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/83d7ee497/93062538/83d7ee49733c04f51a325575c5065252_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/1438be793/93062538/1438be7932ca63cea4d2cc1023aa7bb2.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/1438be793/93062538/1438be7932ca63cea4d2cc1023aa7bb2_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/9f617578c/93062538/9f617578ce355300b64c1d693d8b6b83.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/9f617578c/93062538/9f617578ce355300b64c1d693d8b6b83_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/599ebf5e6/93062538/599ebf5e6fd73b98ec3973053f68c5af.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/599ebf5e6/93062538/599ebf5e6fd73b98ec3973053f68c5af_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/1154404d4/93062538/1154404d439739b9628449af4f672357.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/1154404d4/93062538/1154404d439739b9628449af4f672357_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/f661f2f6a/93062538/f661f2f6a320300bf573a1d2901db2b1.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/f661f2f6a/93062538/f661f2f6a320300bf573a1d2901db2b1_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/2e0456ba2/93062538/2e0456ba253e511b66ddd0e86bfaf6fa.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/2e0456ba2/93062538/2e0456ba253e511b66ddd0e86bfaf6fa_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/b240bf3b2/93062538/b240bf3b2010de62b55de43226b377c4.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/b240bf3b2/93062538/b240bf3b2010de62b55de43226b377c4_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/80d5b52c6/93062538/80d5b52c634e161ac31a9419c6ce1f9d.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/80d5b52c6/93062538/80d5b52c634e161ac31a9419c6ce1f9d_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/2c67e2b3e/93062538/2c67e2b3e48a06d8316c1361f48750d5.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/2c67e2b3e/93062538/2c67e2b3e48a06d8316c1361f48750d5_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/77d828391/93062538/77d82839100ac3603fccea1ef6e81ea9.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/77d828391/93062538/77d82839100ac3603fccea1ef6e81ea9_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/e1bb2ec83/93062538/e1bb2ec836c7c1630fb5595976066a42.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/e1bb2ec83/93062538/e1bb2ec836c7c1630fb5595976066a42_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/02beab1d0/93062538/02beab1d0f40712069b63f10d9be55d0.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/02beab1d0/93062538/02beab1d0f40712069b63f10d9be55d0_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/58cde1d2a/93062538/58cde1d2a1d0795ca596961c8aeb4047.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/58cde1d2a/93062538/58cde1d2a1d0795ca596961c8aeb4047_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/11db2563e/93062538/11db2563edbe9a0e000b563069dbc3de.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/11db2563e/93062538/11db2563edbe9a0e000b563069dbc3de_max_656x437.jpeg",
+        "caption": null
+      }
+    ],
+    "floorplans": [
+      {
+        "url": "https://media.rightmove.co.uk/property-floorplan/be2dd0a14/93062538/be2dd0a149397504c5d8eb5951bda7bf.png",
+        "caption": "Violet Street, E3(60",
+        "type": "IMAGE",
+        "resizedFloorplanUrls": {
+          "size296x197": "https://media.rightmove.co.uk/dir/property-floorplan/be2dd0a14/93062538/be2dd0a149397504c5d8eb5951bda7bf_max_296x197.png"
+        }
+      }
+    ],
+    "epc": [],
+    "stations": [
+      "Devons Road Station · 0.1 mi",
+      "Bromley-by-Bow Station · 0.4 mi"
+    ],
+    "location": {
+      "latitude": 51.52098,
+      "longitude": -0.01825,
+      "circleRadiusOnMap": 0,
+      "zoomLevel": 15,
+      "pinType": "APPROXIMATE_POINT",
+      "showMap": true
+    }
+  },
+  {
+    "id": "92157357",
+    "name": "Maltings Close",
+    "area": "Bromley-by-Bow",
+    "amenities": [
+      "Private balcony",
+      "Canal views",
+      "Gated development",
+      "En suite",
+      "Storage"
+    ],
+    "summary": "Canal-facing apartment with built-in wardrobes and two hallway storage cupboards. EPC rating C.",
+    "warning": "Area conflict: the header lists 624 sq ft / 58 sq m; the description says 64 sq m. Confirm the measured size.",
+    "address": "Maltings Close, London, E3",
+    "postcode": "E3 3TD",
+    "rent": 2300,
+    "extra": 0,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": "624 sq ft",
+    "furnishing": "Furnished",
+    "available": "Ask agent",
+    "deposit": "£2,653",
+    "tax": "Band D",
+    "bills": "Bills and council tax inclusion not stated; confirm with agent.",
+    "term": "Long term; exact terms to confirm",
+    "updated": "Reduced on 29/08/2026",
+    "agent": "Oliver Jaques, Bow",
+    "url": "https://www.rightmove.co.uk/properties/92157357",
+    "images": [
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/1943d3a04/92157357/1943d3a04dd6cd300740e83be943632d.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/1943d3a04/92157357/1943d3a04dd6cd300740e83be943632d_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/0a7c6d0e7/92157357/0a7c6d0e770d5d06f49fab4b3c51db76.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/0a7c6d0e7/92157357/0a7c6d0e770d5d06f49fab4b3c51db76_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/c4cf0eed9/92157357/c4cf0eed99eb98e9ca57b25319d00b15.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/c4cf0eed9/92157357/c4cf0eed99eb98e9ca57b25319d00b15_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/df61b1a7f/92157357/df61b1a7fd7ce27d62e040cd6e6d7b55.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/df61b1a7f/92157357/df61b1a7fd7ce27d62e040cd6e6d7b55_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/1b06b1ee0/92157357/1b06b1ee025571ffe490c9bee00083d6.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/1b06b1ee0/92157357/1b06b1ee025571ffe490c9bee00083d6_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/c646ec93a/92157357/c646ec93af311a17b51f1a540e96b850.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/c646ec93a/92157357/c646ec93af311a17b51f1a540e96b850_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/9f7e34202/92157357/9f7e342022d06d6b0de2f43571846a19.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/9f7e34202/92157357/9f7e342022d06d6b0de2f43571846a19_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/d73f36043/92157357/d73f36043f8017060e8bb1ece39b5069.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/d73f36043/92157357/d73f36043f8017060e8bb1ece39b5069_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/740907726/92157357/740907726e4a1a49484534fead96626e.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/740907726/92157357/740907726e4a1a49484534fead96626e_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/1c26d6684/92157357/1c26d6684576ffb2b614421bb1a09625.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/1c26d6684/92157357/1c26d6684576ffb2b614421bb1a09625_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/2792efe2f/92157357/2792efe2fbc17ca68cc066e8562d3feb.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/2792efe2f/92157357/2792efe2fbc17ca68cc066e8562d3feb_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/891f980a7/92157357/891f980a71df7d82a934887cb013009e.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/891f980a7/92157357/891f980a71df7d82a934887cb013009e_max_656x437.jpeg",
+        "caption": null
+      },
+      {
+        "url": "https://media.rightmove.co.uk/property-photo/abb89b79b/92157357/abb89b79b650da4df63aaa26d8e7d416.jpeg",
+        "thumb": "https://media.rightmove.co.uk/dir/property-photo/abb89b79b/92157357/abb89b79b650da4df63aaa26d8e7d416_max_656x437.jpeg",
+        "caption": null
+      }
+    ],
+    "floorplans": [
+      {
+        "url": "https://media.rightmove.co.uk/property-floorplan/6d783692e/92157357/6d783692ef514d0f61c937d28e340ab9.jpeg",
+        "caption": "All",
+        "type": "IMAGE",
+        "resizedFloorplanUrls": {
+          "size296x197": "https://media.rightmove.co.uk/dir/property-floorplan/6d783692e/92157357/6d783692ef514d0f61c937d28e340ab9_max_296x197.jpeg"
+        }
+      }
+    ],
+    "epc": [
+      {
+        "url": "https://media.rightmove.co.uk/property-epc/54a19d7b1/92157357/54a19d7b17ce18f89b78fcd633aba6bf.png",
+        "caption": "EPC 1"
+      }
+    ],
+    "stations": [
+      "Bromley-by-Bow Station · 0.1 mi",
+      "Devons Road Station · 0.4 mi"
+    ],
+    "location": {
+      "latitude": 51.524468,
+      "longitude": -0.008716,
+      "circleRadiusOnMap": 0,
+      "zoomLevel": 15,
+      "pinType": "ACCURATE_POINT",
+      "showMap": true
+    }
   }
 ];
