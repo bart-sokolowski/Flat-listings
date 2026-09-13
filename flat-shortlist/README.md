@@ -1,6 +1,6 @@
 # Rental listings
 
-A static rental shortlist checked against 14 Rightmove adverts on 13 September 2026.
+A static rental shortlist checked against 16 Rightmove adverts on 13 September 2026.
 
 Open `index.html` in a browser, or use the standalone `Rental-listings.html` supplied alongside this folder. Internet access is needed for the original listing images and web fonts; system fonts provide a fallback.
 
@@ -32,3 +32,5 @@ Hearts save favourites in the current browser. There is no account or shared dat
 - Photos/floorplans remain hosted by Rightmove and may disappear when adverts are removed. Rights belong to their respective owners. Every card links to its source advert.
 
 Edit `listings.js` to update the snapshot. No installation or build step is required.
+
+Added Violet Road (£2,550/month) and Maltings Close (£2,300/month). Both advertise two bedrooms, two bathrooms and a floorplan. Violet Road uses example photos and requires confirmation of the exact balcony. Maltings Close lists conflicting areas: 624 sq ft / 58 sq m in the header versus 64 sq m in the description.
